@@ -9,3 +9,4 @@ references:
 
 - Harrison Kinsley, Daniel Kukieła - Neural Networks from Scratch in Python (2020) [https://nnfs.io](https://nnfs.io).
 - Sentdex youtube channel [Sentdex](https://www.youtube.com/@sentdex)
+
